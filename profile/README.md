@@ -1,11 +1,12 @@
 <br />
-<p align="center" style="max-width:500px; margin: 0 auto">
-  <img src="https://raw.githubusercontent.com/heseya/.github/68c28acd2f46f6a150b9c7f63aa88675a24f10e7/profile/heseya-logo.svg" alt="Heseya" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/26066123/161442958-8ebd6913-0f51-4700-a934-b17145104422.svg" alt="Heseya" width="400px" />
 </p>
 
 <h3 align="center">
   Enhanced <b>e-⁠commerce platform</b>
 </h3>
+
 <p align="center">
     With dedicated headless ecommerce software.
 </p>
@@ -21,9 +22,3 @@
         <img alt="Follow Us on Facebook" src="https://img.shields.io/badge/facebook--green?logo=facebook&style=social" />
     </a>
 </p>
-
-<!-- ## Links
-
-- 🖥  Demo: https://demo.heseya.com/
-- 📘  Documentation: https://docs.heseya.com
-- 🐦  Twitter: https://twitter.com/heseya_com -->
