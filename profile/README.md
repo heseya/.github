@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <img src="/heseya-logo.svg" alt="Heseya" />
+  <img style="max-width:500px" src="https://raw.githubusercontent.com/heseya/.github/68c28acd2f46f6a150b9c7f63aa88675a24f10e7/profile/heseya-logo.svg" alt="Heseya" />
 </p>
 
 <h3 align="center">
